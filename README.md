@@ -10,11 +10,20 @@ If you use any of the material from this repository, please cite the article: Jo
 
 Bibtex:
 ```text
-@inproceedings{schaefer2023hsemo,
-  title={HS-EMO: Analyzing Emotions in Hate Speech},
-  author={Sch{\"a}fer, Johannes and Kistner, Elina},
-  booktitle={KONVENS 2023},
-  year={2023}
+@inproceedings{schafer-kistner-2023-hs,
+    title = "{HS}-{EMO}: Analyzing Emotions in Hate Speech",
+    author = {Sch{\"a}fer, Johannes  and Kistner, Elina},
+    editor = "Georges, Munir  and
+      Herygers, Aaricia  and
+      Friedrich, Annemarie  and
+      Roth, Benjamin",
+    booktitle = "Proceedings of the 19th Conference on Natural Language Processing (KONVENS 2023)",
+    month = sep,
+    year = "2023",
+    address = "Ingolstadt, Germany",
+    publisher = "Association for Computational Lingustics",
+    url = "https://aclanthology.org/2023.konvens-main.17",
+    pages = "165--173",
 }
 ```
 
